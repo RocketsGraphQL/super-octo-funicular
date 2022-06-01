@@ -1,7 +1,7 @@
 {
   "name": "super-octo-funicular",
   "version": "1.0.0",
-  "description": "test adding some description",
+  "description": "Changing the description to test live",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
