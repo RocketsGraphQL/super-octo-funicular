@@ -1,7 +1,7 @@
 {
   "name": "super-octo-funicular",
   "version": "1.0.0",
-  "description": "Changing the description to test live",
+  "description": "Changing the description to test live after updating github app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
