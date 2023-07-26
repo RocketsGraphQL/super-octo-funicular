@@ -1,6 +1,6 @@
 {
   "name": "super-octo-funicular",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Changing the description back again to test live after updating github app",
   "main": "index.js",
   "scripts": {
